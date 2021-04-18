@@ -11,7 +11,7 @@ class Stuff extends Component {
           <li>Just one other club -Instrumentation Forum</li>
           
           <li>Interests-Sports(cricket,badminton,basketball),reading about Astronomy related stuff,trying to find interest in coding as well.</li>
-          
+          <li>Link for a small project i tried on <a href="http://kshitij2002san.pythonanywhere.com/">Django</a> backend </li>
         
         </ol>
       </div>
